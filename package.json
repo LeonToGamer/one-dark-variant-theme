@@ -1,0 +1,26 @@
+{
+    "name": "one-dark-variant",
+    "displayName": "One Dark Variant",
+    "description": "The \"One Dark Variant\" theme from Visual Studio 2019 for Visual Studio code recreated by rldald989",
+    "version": "1.0.1",
+    "publisher": "LeonInfinity",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LeonToGamer/one-dark-variant-theme"
+    },
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Variant - VSCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Variant - VSCode-color-theme.json"
+            }
+        ]
+    }
+}
